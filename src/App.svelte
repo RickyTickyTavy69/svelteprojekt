@@ -5,13 +5,15 @@
 </script>
 
 <main>
-  <img src={ayanami} alt="I rei Ayanami">
+  <img class="image" src={ayanami} alt="I rei Ayanami">
+  <h2> Optische Täuschung:</h2>
   <div class="card">
-    Ты тратишь своё время, изучая ненужные ненужные технологии...
+    du denkst das ist Ayanami Rei
     <br/>
+    Aber eigentlich verschwendest du deine Zeit, indem du dir nutzlose Dinge im Internet ansiehst
     <br/>
     <p>
-      Уже прошло <br/> <br/><Time/>
+      Das schon seit... <br/> <br/><Time/>
     </p>
     <br/>
     <br/>
@@ -22,6 +24,9 @@
 <style>
   main {
     background-color: #c4c4e2;
+  }
+  .image {
+    width: 500px;
   }
 
 </style>

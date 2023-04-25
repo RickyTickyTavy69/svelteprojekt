@@ -6,7 +6,7 @@
 </script>
 
 <button class="button" on:click={increment}>
-  ПОН
+  OKAY
 </button>
 
 <style>
